@@ -5,4 +5,4 @@ The following functions have been implemented using Youtube-API.
 -Search function
 -Related video list function
 
-<img src="/img/search.png" width="400" />
+<img src="src/img/search.png" width="400" />
